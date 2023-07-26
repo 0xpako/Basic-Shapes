@@ -1,2 +1,2 @@
 # Basic-Shapes
-Basic shapes with Three.js
+Basic shapes showcase with Three.js
